@@ -1,3 +1,0 @@
----
-BUNDLE_WITHOUT: "jekyll-last-modified-at"
-BUNDLE_FORCE_RUBY_PLATFORM: "true"
